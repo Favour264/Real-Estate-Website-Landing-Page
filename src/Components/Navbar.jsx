@@ -12,8 +12,8 @@ const Navbar = () => {
   };
 
   return (
-    <div className="bg-pink-200">
-    <nav className="flex flex-wrap items-center justify-between p-3 bg-pink-300">
+    <div className="bg-[#DDC7BB]">
+    <nav className="flex flex-wrap items-center justify-between p-3 bg-[#ebccbb]">
       <img src={Logo} className="h-10 w-20" alt="Logo" />
       <div className="flex md:hidden">
         <button id="hamburger" onClick={handleMenuToggle}>
