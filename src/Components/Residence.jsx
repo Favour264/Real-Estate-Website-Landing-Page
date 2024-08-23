@@ -10,7 +10,7 @@ const Residence = () => {
         <h1 className='font-bold m-auto text-4xl'>Our Popular Residence</h1>
       </div>
       <div className="flex gap-6 flex-col lg:flex-row md:flex-row sm:flex-row  mt-10">
-      <div className="bg-[#DDC7BB] w-[350px] ml-5 lg:ml-10 md:ml-10 sm:ml-10 rounded-l-3xl rounded-r-3xl">
+      <div className="bg-[#DDC7BB] w-[350px] ml-2 lg:ml-10 md:ml-10 sm:ml-10 rounded-l-3xl rounded-r-3xl">
         <img
         className='rounded-l-3xl rounded-r-3xl'
         src={house}
@@ -42,7 +42,7 @@ const Residence = () => {
         </div>
       </div>
 
-      <div className="bg-[#DDC7BB] w-[350px] ml-5 lg:ml-10 md:ml-10 sm:ml-10  rounded-l-3xl rounded-r-3xl">
+      <div className="bg-[#DDC7BB] w-[350px] ml-2 lg:ml-10 md:ml-10 sm:ml-10  rounded-l-3xl rounded-r-3xl">
         <img
         className='rounded-l-3xl rounded-r-3xl'
         src={house}
@@ -74,7 +74,7 @@ const Residence = () => {
         </div>
       </div>
 
-      <div className="bg-[#DDC7BB] w-[350px] ml-5 lg:ml-10 md:ml-10 sm:ml-10  rounded-l-3xl rounded-r-3xl">
+      <div className="bg-[#DDC7BB] w-[350px] ml-2 lg:ml-10 md:ml-10 sm:ml-10  rounded-l-3xl rounded-r-3xl">
         <img
         className='rounded-l-3xl rounded-r-3xl'
         src={house}
